@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aber6
-- 👀 I’m interested in ... automobiles and football alongside tech
+- 👀 I’m interested in ... automobiles and crypto alongside tech
 - 🌱 I’m currently learning ...js and libraries
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email-bot2610@protonmail.com
