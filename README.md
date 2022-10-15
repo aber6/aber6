@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aber6
-- 👀 I’m interested in ... automobiles and crypto alongside tech
+- 👀 I’m interested in ... various things including automobiles, technology and sports
 - 🌱 I’m currently learning ...js and libraries
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email-bot2610@protonmail.com
+- 📫 How to reach me ...email-ankur.2403.shrivastava@gmail.com
 
 <!---
 aber6/aber6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
